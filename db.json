@@ -1,0 +1,44 @@
+{
+  "Clientes": [
+    {
+      "nombre": "Sube",
+      "empresa": "serty",
+      "email": "harquin09@gmail.com",
+      "telefono": "01147463729",
+      "notas": "asdff",
+      "id": 1
+    },
+    {
+      "nombre": "VinKE",
+      "empresa": "Buitres sociedad anonima",
+      "email": "buitre@gmail.com",
+      "telefono": "125454787",
+      "notas": "Mejor amigo: hugo",
+      "id": 2
+    },
+    {
+      "nombre": "VinKE",
+      "empresa": "Buitres sociedad anonima",
+      "email": "buitre@gmail.com",
+      "telefono": "125454787",
+      "notas": "Mejor amigo: hugo",
+      "id": 3
+    },
+    {
+      "nombre": "Jonhy",
+      "empresa": "Abortos legales",
+      "email": "johnynazco@mail.com",
+      "telefono": "66666666",
+      "notas": "Perchas cotizar",
+      "id": 4
+    },
+    {
+      "nombre": "Netflix",
+      "empresa": "Netlix",
+      "email": "correo@correo.com",
+      "telefono": "1234564",
+      "notas": "",
+      "id": 5
+    }
+  ]
+}
